@@ -19,11 +19,11 @@
 
 
 # What it do
-application  connect to the locally running service
-application  render price changes for some tickers in real time
-when the cost increases, the line turns green and near percent - up arrow
-when decrease, the line is tinted red and near percent - down arrow
-it is possible to increase or decrease the period for receiving updated data
-if you don't want to keep track all tickers of the main list, you can send the tickers you don't need to the short list and vice versa
+1. application  connect to the locally running service
+2. application  render price changes for some tickers in real time
+3. when the cost increases, the line turns green and near percent - up arrow
+4. when decrease, the line is tinted red and near percent - down arrow
+5. it is possible to increase or decrease the period for receiving updated data
+6. if you don't want to keep track all tickers of the main list, you can send the tickers you don't need to the short list and vice versa
 
 
